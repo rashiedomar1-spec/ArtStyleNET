@@ -37,7 +37,7 @@ Identified stylistic variability among painters.
 
 **Source**: 🎨 [Dacon Artist Classification Competition](https://dacon.io/en/competitions/official/236006/data)  
 **Size**: 5,910 paintings by 51 artists  
-- Includes metadata (artist, year, genre, nationality) but only images were used  
+- Includes metadata (artist, year, genre, nationality), but only images were used  
 - Training set only (evaluation dataset excluded)  
 
 ⚠️ *Dataset is not included in this repository due to size limitations. Please download directly from the official Dacon link.*
@@ -55,8 +55,7 @@ ArtStyleNET/
 │── test.csv # Test dataset (download from Dacon)
 │── open/ # Folder for extracted/generated outputs
 │── ArtStyleNet (Final exam project).pptx # Presentation slides
-│── ArtStyleNet - Content based recommendation.pdf # Report
-
+│── ArtStyleNet - Content-based recommendation.pdf # Report
 
 ---
 
